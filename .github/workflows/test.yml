@@ -1,5 +1,5 @@
 name: action-test
-
+runs-on: ubuntu-latest
 on: push
 
 jobs:
